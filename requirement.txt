@@ -1,7 +1,7 @@
 streamlit
 python-dotenv
 speechrecognition
-pypdf
+pdfplumber
 requests
 keyboard
 pyaudio
